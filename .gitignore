@@ -3,4 +3,5 @@
 .settings/
 *mvn*
 target/
-*.jks
+/ServletJWT.iml
+/sh.exe.stackdump
